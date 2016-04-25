@@ -21,7 +21,7 @@ This fork is a starting point to port Swift to Windows. The ultimate goals are:
 Windows 7/8/10  
 [Visual Studio 2015 (or above) Community Edition](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx) with [the latest Clang front end] (http://llvm.org/builds/)  
 [python (3.4.4 or above)](https://www.python.org/downloads/windows/)  
-[cmake (3.4.3 or above)](https://cmake.org/download)
+[cmake (3.4.3 or above)](https://cmake.org/download)  
 [git for windows (2.8.0 or above)](https://git-scm.com/download/win)
 
 Make sure these commands are available from a windows prompt: python, cmake. If not, please add their pathes to system environment variable "PATH". 
